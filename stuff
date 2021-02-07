@@ -1,0 +1,32 @@
+var alarmImg, blueAgentImg, blueBoostImg1
+var blueBoostImg2, blueBoostImg3, blueBoostImg4, blueExitpointImg, blueRotation, greenRotation, orangeRotation,
+redRotation, dataFileImg1, dataFileImg2, dataFileImg3, lockImg, redAgentImg, redBoostImg1, redBoostImg2
+var redBoostImg3, redBoostImg4, redExitPointImg, transactionLinkImg, virusImg,
+alarmGroup = new Group()
+boostGroup1 = new Group()
+rotationGroup1 = new Group()
+rotationGroup2 = new Group()
+dataFileGroup = new Group()
+redExitPointGroup = new Group()
+blueExitPointGroup = new Group()
+lockGroup = new Group()
+virusGroup = new Group()
+transactionLinkGroup = new Group()
+boostGroup2 = new Group()
+
+database 
+health stat
+objects(sprites or bodies)
+how to win
+ik the pictures r bad i took em myself
+survival to win
+exit point we need to use exit point
+survival time i wish this thing had a built in timer/stopwatch
+win screen display name of winner so they can have bragging rights
+i need something satisfying yet simplistic; the happy medium
+can the background be set as a gif.
+health.x = 798
+score.x = 863
+202,131,142
+groups and controls
+make second player have fun too
